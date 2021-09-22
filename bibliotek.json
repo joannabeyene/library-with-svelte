@@ -1,0 +1,10 @@
+{
+  "movies": [
+    {"id":1,"movieTitle":"Dot and the Whale","director":"Yoram Gross","checkedOut":false},
+    {"id":2,"movieTitle":"7 Days in Havana","director":"Gaspar Noé","checkedOut":false},
+    {"id":3,"movieTitle":"Rich and Strange","director":"Alfred Hitchcock","checkedOut":false},
+    {"id":4,"movieTitle":"Odd Life of Timothy Green, The","director":"Peter Hedges","checkedOut":true},
+    {"id":5,"movieTitle":"Trials of Oscar Wilde, The","director":"Ken Hughes","checkedOut":false},
+    {"id":6,"movieTitle":"Troma's War","director":"Michael Herz","checkedOut":true}
+  ]
+}
